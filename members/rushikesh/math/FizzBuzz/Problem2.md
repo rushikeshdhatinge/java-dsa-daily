@@ -11,8 +11,8 @@ Given N, print the numbers from 1 to N. For multiples of 3 print Fizz, for multi
 | N = 15 | 1 2 Fizz 4 Buzz ... FizzBuzz |
 
 ## ADT
-Data - 
-Methods - 
+Data -  int N
+Methods - FizzBuzz()
 
 ## Complexity
 - Time: O(N)

@@ -1,0 +1,38 @@
+import java.util.Scanner;
+
+public class Solution {
+
+    int N;
+
+    void fizzbuzz() {
+
+        for (int i = 1; i <= N; i++) {
+
+            if (i % 3 == 0 && i % 5 == 0) {
+                System.out.print("FizzBuzz ");
+            } else if (i % 3 == 0) {
+                System.out.print("Fizz ");
+
+            } else if (i % 5 == 0) {
+                System.out.print("Buzz ");
+
+            } else {
+                System.out.print(i + " ");
+            }
+
+        }
+
+    };
+
+    public static void main(String[] args) {
+
+        Solution s1 = new Solution();
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your number");
+        s1.N = sc.nextInt();
+
+        s1.fizzbuzz();
+        sc.close();
+
+    }
+}
