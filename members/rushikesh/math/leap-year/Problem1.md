@@ -1,8 +1,9 @@
 # Leap Year
 
+**Day:** 1
 **Topic:** math
 **Difficulty:** Easy
-**Link:** (add the link if you took it from a site, or write "Classic problem")
+**Link:** Classic problem
 
 ## Problem
 Given a year, check whether it is a leap year and print the result.
@@ -16,7 +17,6 @@ Given a year, check whether it is a leap year and print the result.
 ## Approach
 If year is divided 4 and if year is multiple of 100 then divided by 400 then that year consider as leap year
 
-
 ## Complexity
-- Time: 
-- Space:
+- Time: O(1)
+- Space: O(1)
