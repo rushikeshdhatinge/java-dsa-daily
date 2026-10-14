@@ -19,6 +19,3 @@ Example: `[strings] valid-anagram - rushikesh`
 - Small team: push directly to `main`.
 - Larger team: open a pull request and ask one teammate to review.
 
-## Daily log
-Add one row to `LOG.md`:
-`| 2026-10-12 | rushikesh | strings | valid-anagram | Easy |`
