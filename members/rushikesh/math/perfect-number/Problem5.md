@@ -12,7 +12,7 @@ Given a number, check whether it is a perfect number. A perfect number is one wh
 | 12 | Not perfect |
 
 ## ADT
-Data -  Number,sum
+Data -  int Number,sum;
 Methods - process();
 
 ## Complexity
