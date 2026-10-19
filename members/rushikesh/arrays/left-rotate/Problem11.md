@@ -11,8 +11,8 @@ Given an array, left rotate it by one position.
 | {1, 2, 3, 4, 5} | 2 3 4 5 1 |
 
 ## ADT
-Data - 
-Methods - 
+Data -  int arr[],l;
+Methods - rotate(),print();
 
 ## Complexity
 - Time: O(n)
